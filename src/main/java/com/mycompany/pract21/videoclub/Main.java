@@ -1,4 +1,5 @@
 package com.mycompany.pract21.videoclub;
+/*Este es el Main*/
 
 import com.mycompany.pract21.videoclub.objects.Categoria;
 import com.mycompany.pract21.videoclub.objects.Pelicula;
